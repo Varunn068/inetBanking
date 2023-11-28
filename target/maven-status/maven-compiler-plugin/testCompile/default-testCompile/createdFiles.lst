@@ -1,0 +1,15 @@
+com\inetBanking\testCases\TC_loginDDT_002.class
+com\inetBanking\testCases\BaseClass.class
+ExtentReports\Multiplelogin.class
+ExtentReports\Chapter6.class
+ExtentReports\Chaptertest.class
+com\inetBanking\testCases\Login_Test.class
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\testCases\TC_AddCustomerTest_003.class
+ExtentReports\Chapter4.class
+ExtentReports\pptest.class
+com\inetBanking\pageObjects\AddCustomerPage.class
+ExtentReports\Chapter3.class
+com\inetBanking\utilities\Reporting.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjects\LoginPage.class
